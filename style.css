@@ -110,6 +110,8 @@
             right: 15px;
         }
 
+        
+
         #darkModeToggle:hover {
             background: #D90429; /* Rich red on hover */
         }
@@ -185,4 +187,10 @@
 
         #scrollToTop:hover {
             background: #0077B6; /* Vivid blue on hover */
+        }
+
+        #about {
+            background-color: #F4F1DE;
+            padding: 20px;
+            border-radius: 5px;
         }
