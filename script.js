@@ -16,7 +16,7 @@ document.getElementById('scrollToTop').addEventListener('click', function() {
 });
 
 // Typing effect for welcome text
-let i = 0, text = "Welcome to Library!";
+let i = 0, text = "BookishBuzz";
 function typeEffect() {
     if (i < text.length) {
         document.getElementById('welcomeText').innerHTML += text.charAt(i);
